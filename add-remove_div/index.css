@@ -4,15 +4,5 @@ section {
   height: 40vh;
 }
 
-#btnClose {
-  width: 80px;
-  border: outset;
-  color: orange;
-}
-#btnClose:hover{
-  border:inset;
-}
 .view{
-  width: 50%;
-  border: solid red 1px;
 }
