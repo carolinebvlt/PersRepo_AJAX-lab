@@ -10,6 +10,6 @@ function fillAddBox(nbr) {
 }
 function emptyAddBox(nbr){
   var addBox = document.getElementById('addBox'+nbr);
-  var view = document.getElementById('view');
+  var view = document.getElementById('view'+nbr);
   addBox.removeChild(view);
 }
