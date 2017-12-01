@@ -5,7 +5,7 @@ function fillAddBox(nbr) {
      document.getElementById("addBox"+nbr).innerHTML = this.responseText;
     }
   };
-  rq.open("GET", "view.php", true);
+  rq.open("GET", nbr+".php", true);
   rq.send();
 }
 function emptyAddBox(nbr){
