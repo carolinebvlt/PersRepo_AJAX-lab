@@ -1,1 +1,1 @@
-PersRepo_AJAX-lab
+PersRepo_Lab
