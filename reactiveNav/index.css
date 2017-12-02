@@ -1,0 +1,27 @@
+html, body{
+  margin: 0;
+}
+#main{
+  background-color: silver;
+}
+#mainNav{
+  background-color: lightblue;
+  float: left;
+  width: 20%;
+  height: 100vh;
+  position: fixed;
+}
+#mainNav ul{
+  margin: 0;
+}
+#mainContent{
+  background-color: lightgreen;
+  float: right;
+  width: 80%;
+}
+#mainContent section{
+  background-color: orange;
+  height: 30vh;
+  width: 90%;
+  margin: auto;
+}
