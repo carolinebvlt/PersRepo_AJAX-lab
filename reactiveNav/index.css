@@ -13,6 +13,7 @@ html, body{
 }
 #mainNav ul{
   margin: 0;
+  padding: 50px 0 0 50px;
 }
 #mainContent{
   background-color: lightgreen;
@@ -24,4 +25,6 @@ html, body{
   height: 30vh;
   width: 90%;
   margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
